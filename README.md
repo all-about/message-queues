@@ -1,6 +1,6 @@
 # All about Message Queues
 
-I've encountered different kinds of message queues over my career and also have worked on systems which used messaging queues but I've never completely dig deeper into learning more about them. 
+I've encountered different kinds of message queues over my career and also have worked on systems which used messaging queues but I've never completely dug deeper into learning more about them. 
 
 I've found myself reading random articles about Kafka, rabbitMQ or sometimes one of those comparison articles between these or the latest Apache Puslar. But I still couldn't get the confidence to say that I know enough about them. I continued to have questions as follows :
 
@@ -25,7 +25,7 @@ So I'll be following this structure.
 
 ## Features - What
 
-I'm going to come up with all the possible features the message queues are offering out there and also explain which use cases they are trying to solve.
+I'm going to come up with all the possible features the message queues are offering out there and also explain which use case each feature is trying to solve.
 
 
 ## Comparison - Which
