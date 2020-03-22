@@ -2,8 +2,8 @@
 
 'All about' articles focus of answering the following questions :
 
-- Why to use them? What do they offer?
 - When to use them?
+- What do they offer?
 - Which one to use?
 - How to use them?
 
@@ -15,7 +15,10 @@ These questions actually translate into the following sub-topics :
 - Implementation / How to use
 
 
-## Common Use Cases - When
+## Use Cases - When
+
+Let's talk about the need for the message queues.
+
 
 ## Features - What
 
